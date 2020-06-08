@@ -1,0 +1,79 @@
+* Formal Systems in Biology
+
+A collection of resources that apply formal systems to model biological processes.
+Some easily accessible books to understand the general approach to this field might be:
+
+** McCullough-Pitts Work
+
+*** [[https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf][A Logical Calculus of the Ideas Immanent in Nervous Activity (1943)]]
+[[./img/mccullough-pitts.png]]
+
+The paper that kickstarted A.I. and digital computers. Inspired Neumann.
+Only paper cited in his EDVAC report.
+
+** Stainslaw Ulam and Jon Von Neumann
+
+*** [[Theory of self-reproducing automata][Cellular Automata]]
+[[./img/neumann.png]]
+
+*** [[http://web.mit.edu/6.454/www/papers/pierce_1952.pdf][Probabilistic Logics and the Synthesis of reliable organisms from unreliable components (1952)]]
+[[./img/neumann-pierce-drawings.png]]
+
+** L Systems
+
+*** [[https://www.sciencedirect.com/science/article/abs/pii/0022519368900799][Mathematical models for cellular interactions in development I (1968)]]
+[[./img/lsystem-1.png]]
+
+*** [[https://www.sciencedirect.com/science/article/abs/pii/0022519368900805][Mathematical models for cellular interactions in development II (1968)]]
+[[./img/lsystem-2.png]]
+
+** Karl Sims
+[[./img/karl-sims.jpg]]
+*** [[https://www.karlsims.com/evolved-virtual-creatures.html][Evolved Virutal Creatures (1994)]]
+
+** Walter Fontana and Leo Buss (1996)
+
+*** [[https://scholar.harvard.edu/files/walterfontana/files/objects.pdf][The Barrier of Objects From Dynamical Systems to Bounded Organizations]]
+[[./img/fontana-buss.png]]
+
+** Regev, Silvermann, Shapiro
+
+*** [[https://psb.stanford.edu/psb-online/proceedings/psb01/regev.pdf][Representation and Simulation of Biochemical Process Using the Pi Calculus Process Algebra (2001)]]
+[[./img/regev-shapiro.png]]
+
+*** [[https://www.nature.com/articles/419343a.pdf][Cell as Computation (2002)]]
+[[./img/regev-shapiro-2.png]]
+
+** Ehud Lamm and Ron Unger
+
+*** [[http://www.ehudlamm.com/biocomputing.html][Biological Computation]]
+[[./img/ehud-lamm.jpg]]
+
+** P System
+[[./img/p-system.png]]
+
+** Alan Turing
+
+*** [[https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.1952.0012][The Chemical Basis of Morphogenesis (1952)]]
+[[./img/reaction-diffusion.png]]
+Reaction-Diffusion Systems
+
+
+** Clusters
+
+* Resources to understand the field
+
+** Neurocomics (Beginner)
+** Introducing Evolution (Beginner)
+** Introducing Metaevolution? (Beginner)
+** Complexity: A Very Short Introduction (Intermediate)
+** Games of Life (Intermediate)
+
+* Books
+
+** [[https://link.springer.com/book/10.1007/11885191][Computational Methods in Systems Biology (2006)]]
+
+** Prior Art
+
+*** Ramón y Cayal
+*** Golgi

@@ -58,6 +58,20 @@ Only paper cited in his EDVAC report.
 [[./img/reaction-diffusion.png]]
 Reaction-Diffusion Systems
 
+** Marius Buliga
+
+*** [[http://imar.ro/~mbuliga/chemlambda-v2.html][Chemlambda]]
+[[./chemlambda.gif]]
+
+** Jeffrey Ventrella
+
+*** [[http://ventrella.com/Clusters/][Clusters]]
+[[./clusters.png]]
+
+*** [[http://www.swimbots.com/genepool/][Genepool]]
+[[./genepool.png]]
+
+
 
 ** Clusters
 

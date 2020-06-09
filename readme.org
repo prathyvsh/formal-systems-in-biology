@@ -14,7 +14,7 @@ An interactive demo of their model is available here: https://justinmeiners.gith
 
 ** Stanislaw Ulam and Jon Von Neumann
 
-*** [[Theory of self-reproducing automata][Cellular Automata]]
+*** [[https://dl.acm.org/doi/book/10.5555/1102024][Theory of Self Reproducing Automata]]
 [[./img/neumann.png]]
 
 *** [[http://web.mit.edu/6.454/www/papers/pierce_1952.pdf][Probabilistic Logics and the Synthesis of reliable organisms from unreliable components (1952)]]
@@ -84,12 +84,24 @@ Reaction-Diffusion Systems
 
 * Resources to understand the field
 
-** Neurocomics (Beginner)
-** Introducing Evolution (Beginner)
-** Introducing Genetics (Beginner)
-** Introducing Epigenetics (Beginner)
-** Complexity: A Very Short Introduction (Intermediate)
-** Games of Life (Intermediate)
+
+** [[https://amzn.to/2UrKeRv][Neurocomics]] (Beginner)
+[[./img/neurocomics.jpg]]
+
+** [[https://amzn.to/37ft4vD][Introducing Evolution]] (Beginner)
+[[./img/evolution-graphic-guide.jpg]]
+
+** [[https://amzn.to/2A7pWpH][Introducing Genetics]] (Beginner)
+[[./img/genetics-graphic-guide.jpg]]
+
+** [[https://amzn.to/2BQ1JEL][Introducing Epigenetics]] (Beginner)
+[[./img/epigenetics-graphic-guide.jpg]]
+
+** [[https://amzn.to/2XQ39rz][Complexity: A Very Short Introduction]] (Intermediate)
+[[./img/complexity-a-very-short-introduction.jpg]]
+
+** [[https://amzn.to/3dYA0ja][Games of Life]] (Intermediate)
+[[./img/games-of-life.jpg]]
 
 * Books
 

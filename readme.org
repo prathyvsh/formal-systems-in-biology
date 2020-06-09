@@ -61,19 +61,15 @@ Reaction-Diffusion Systems
 ** Marius Buliga
 
 *** [[http://imar.ro/~mbuliga/chemlambda-v2.html][Chemlambda]]
-[[./chemlambda.gif]]
+[[./img/chemlambda.gif]]
 
 ** Jeffrey Ventrella
 
 *** [[http://ventrella.com/Clusters/][Clusters]]
-[[./clusters.png]]
+[[./img/clusters.png]]
 
 *** [[http://www.swimbots.com/genepool/][Genepool]]
-[[./genepool.png]]
-
-
-
-** Clusters
+[[./img/genepool.png]]
 
 * Resources to understand the field
 

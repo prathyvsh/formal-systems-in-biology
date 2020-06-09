@@ -8,8 +8,7 @@ Some easily accessible books to understand the general approach to this field mi
 *** [[https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf][A Logical Calculus of the Ideas Immanent in Nervous Activity (1943)]]
 [[./img/mccullough-pitts.png]]
 
-The paper that kickstarted A.I. and digital computers. Inspired Neumann.
-Only paper cited in his EDVAC report.
+McCullouch and Pitts study of neurons in biology birthed the pivotal paper that kickstarted A.I., [[https://www.rand.org/content/dam/rand/pubs/research_memoranda/2008/RM704.pdf][regular languages]], and digital computers. It was the only paper included in [[http://abelgo.cn/cs101/papers/Neumann.pdf][the EDVAC report]] by John Von Neumann.
 
 An interactive demo of their model is available here: https://justinmeiners.github.io/neural-nets-sim/
 

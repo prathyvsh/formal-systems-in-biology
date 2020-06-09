@@ -75,7 +75,8 @@ Reaction-Diffusion Systems
 
 ** Neurocomics (Beginner)
 ** Introducing Evolution (Beginner)
-** Introducing Metaevolution? (Beginner)
+** Introducing Genetics (Beginner)
+** Introducing Epigenetics (Beginner)
 ** Complexity: A Very Short Introduction (Intermediate)
 ** Games of Life (Intermediate)
 

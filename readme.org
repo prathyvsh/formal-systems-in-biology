@@ -11,6 +11,8 @@ Some easily accessible books to understand the general approach to this field mi
 The paper that kickstarted A.I. and digital computers. Inspired Neumann.
 Only paper cited in his EDVAC report.
 
+An interactive demo of their model is available here: https://justinmeiners.github.io/neural-nets-sim/
+
 ** Stainslaw Ulam and Jon Von Neumann
 
 *** [[Theory of self-reproducing automata][Cellular Automata]]
@@ -43,6 +45,8 @@ Only paper cited in his EDVAC report.
 
 *** [[https://www.nature.com/articles/419343a.pdf][Cell as Computation (2002)]]
 [[./img/regev-shapiro-2.png]]
+
+*** [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1.4739&rep=rep1&type=pdf][The π-calculus as an abtsraction for biomolecular systems (2004)]]
 
 ** Ehud Lamm and Ron Unger
 

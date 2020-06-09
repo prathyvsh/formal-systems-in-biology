@@ -77,6 +77,9 @@ Reaction-Diffusion Systems
 ** Programming Languages
 
 *** [[https://kappalanguage.org/][https://kappalanguage.org/]]
+
+[[./img/kappa.png]]
+
 *** [[http://sbml.org/Main_Page][The Systems Biology Markup Language]]
 
 * Resources to understand the field

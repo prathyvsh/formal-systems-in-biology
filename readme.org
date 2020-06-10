@@ -111,7 +111,7 @@ Reaction-Diffusion Systems
 
 - Rashevsky and Rosen
 
-Rashevsky devised the [[https://doi.org/10.1002%2Fjhbs.1094][primary model of neural networks]] which was interpreted using the boolean language by McCullough/Pitts. His student Robert Rosen went on to work on using Category Theory to model biology. These works need to be catalogued here.
+[[https://en.wikipedia.org/wiki/Nicolas_Rashevsky][Rashevsky]] devised the [[https://doi.org/10.1002%2Fjhbs.1094][primary model of neural networks]] which was interpreted using the boolean language by McCullough/Pitts. His student [[https://en.wikipedia.org/wiki/Robert_Rosen_(theoretical_biologist)][Robert Rosen]] went on to work on using Category Theory to model biology. These works need to be catalogued here. [[https://en.wikipedia.org/wiki/Herbert_A._Simon][Herbert Simon]] was also his student.
 
 There could also be more possible works from the conference where McCullough presented his work and met Pitts.
 

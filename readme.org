@@ -121,5 +121,5 @@ There could also be more possible works from the conference where McCullough pre
 
 ** Prior Art
 
-*** Ramón y Cajal
-*** Golgi
+*** [[https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal][Ramón y Cajal]]
+*** [[https://en.wikipedia.org/wiki/Camillo_Golgi][Camillo Golgi]]

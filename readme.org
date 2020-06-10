@@ -30,7 +30,7 @@ An interactive demo of their model is available here: https://justinmeiners.gith
 
 ** Karl Sims
 [[./img/karl-sims.jpg]]
-*** [[https://www.karlsims.com/evolved-virtual-creatures.html][Evolved Virutal Creatures (1994)]]
+*** [[https://www.karlsims.com/evolved-virtual-creatures.html][Evolved Virtual Creatures (1994)]]
 
 ** Walter Fontana and Leo Buss (1996)
 

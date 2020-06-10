@@ -1,7 +1,7 @@
 * Formal Systems in Biology
 
 A collection of resources that apply formal systems to model biological processes.
-Some easily accessible books to understand the general approach to this field might be:
+Some easily accessible books to understand the general approaches in this field are also included.
 
 ** McCullough-Pitts Work
 

@@ -12,7 +12,7 @@ McCullouch and Pitts study of neurons in biology birthed the pivotal paper that 
 
 An interactive demo of their model is available here: https://justinmeiners.github.io/neural-nets-sim/
 
-** Stanislaw Ulam and Jon Von Neumann
+** Stanisław Ulam and Jon Von Neumann
 
 *** [[https://dl.acm.org/doi/book/10.5555/1102024][Theory of Self Reproducing Automata]]
 [[./img/neumann.png]]
@@ -111,7 +111,11 @@ Reaction-Diffusion Systems
 
 Rashevsky devised the [[https://doi.org/10.1002%2Fjhbs.1094][primary model of neural networks]] which was interpreted using the boolean language by McCullough Pitts. His student Robert Rosen went on to work on using Category Theory to model biology. These works need to be catalogued here.
 
+Ilya Pregorine’s Work
+
+Chaitin’s work
+
 ** Prior Art
 
-*** Ramón y Cayal
+*** Ramón y Cajal
 *** Golgi

@@ -119,6 +119,12 @@ There could also be more possible works from the conference where McCullough pre
 
 - Gregory Chaitin’s work
 
+- Stochastic CFG for RNA
+
+- Knot Theory for Protein Molecules
+
+- Wang Tiles and DNA
+
 ** Prior Art
 
 *** [[https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal][Ramón y Cajal]]

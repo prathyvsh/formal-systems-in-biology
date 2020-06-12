@@ -127,6 +127,8 @@ There could also be more possible works from the conference where McCullough pre
 
 - [[https://www.sciencedirect.com/science/article/pii/B9780128140666000064][Molecular Networks and Monomial Ideals]]
 
+- [[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004591][Computational Modeling, Formal Analysis, and Tools for Systems Biology: Survey]]
+
 ** Prior Art
 
 *** [[https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal][Ramón y Cajal]]

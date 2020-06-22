@@ -82,6 +82,14 @@ Reaction-Diffusion Systems
 
 *** [[http://sbml.org/Main_Page][The Systems Biology Markup Language]]
 
+** Computation with Crabs
+
+[[https://arxiv.org/pdf/1204.1749.pdf][Paper]]
+
+[[./img/crab-or-gate.png]]
+
+[[./img/crab-and-gate.png]]
+
 * Resources to understand the field
 
 

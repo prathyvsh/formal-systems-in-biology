@@ -63,8 +63,10 @@ Reaction-Diffusion Systems
 
 ** Marius Buliga
 
-*** [[http://imar.ro/~mbuliga/chemlambda-v2.html][Chemlambda]]
+*** [[https://chemlambda.github.io/index.html][Chemlambda]]
 [[./img/chemlambda.gif]]
+
+For animations, checkout: https://chemlambda.github.io/collection.html
 
 ** Jeffrey Ventrella
 

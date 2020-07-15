@@ -125,8 +125,15 @@ For animations, checkout: https://chemlambda.github.io/collection.html
 
 There could also be more possible works from the conference where McCullough presented his work and met Pitts.
 
-** Rashyevsky’s work
+** Rashevsky’s work
 
+*** [[https://link.springer.com/article/10.1007%2FBF02476737][On relation between sets — 1961]]
+*** [[https://link.springer.com/article/10.1007%2FBF02476851][The representation of organisms in terms of predicates — 1965]]
+*** [[https://link.springer.com/article/10.1007%2FBF02476395][On relations between sets: II - 1966]]
+*** [[https://link.springer.com/article/10.1007%2FBF02477001][A note on relations between sets – 1966]]
+*** [[https://link.springer.com/article/10.1007%2FBF02476967][Organismic sets: Outline of a general theory of biological and social organisms - 1967]]
+*** [[https://link.springer.com/article/10.1007%2FBF02476947][Organismic sets: II. Some general considerations - 1968]]
+*** [[https://link.springer.com/article/10.1007/BF02477842][The Geometrization of Biology]]
 *** [[https://link.springer.com/article/10.1007%2FBF02478215][Outline of a unified approach to physics, biology and sociology]]
 
 - Needs to include his work on organismic sets

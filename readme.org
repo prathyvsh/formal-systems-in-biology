@@ -125,6 +125,12 @@ For animations, checkout: https://chemlambda.github.io/collection.html
 
 There could also be more possible works from the conference where McCullough presented his work and met Pitts.
 
+** Rashyevsky’s work
+
+*** [[https://link.springer.com/article/10.1007%2FBF02478215][Outline of a unified approach to physics, biology and sociology]]
+
+- Needs to include his work on organismic sets
+
 ** Partial sampling of Rosen’s work:
 
 *** [[https://link.springer.com/chapter/10.1007/978-94-009-2975-3_35][Pattern Generation in Cellular Spaces]]

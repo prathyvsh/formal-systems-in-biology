@@ -136,7 +136,7 @@ There could also be more possible works from the conference where McCullough pre
 *** [[https://link.springer.com/article/10.1007/BF02477959][The derivation of D’Arcy Thompson’s theory of transformations from the theory of optimal design]]
 *** [[https://link.springer.com/article/10.1007/BF02477897][A logical paradox implicit in the notion of a self-reproducing automaton]]
 *** [[https://link.springer.com/article/10.1007/BF02478302][A relational theory of biology]]
-*** [[The representation of biological systems from the standpoint of the theory of categories][https://link.springer.com/article/10.1007/BF02477890]]
+*** [[https://link.springer.com/article/10.1007/BF02477890][The representation of biological systems from the standpoint of the theory of categories]]
 
 - Ilya Pregorine’s Work
 

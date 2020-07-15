@@ -125,11 +125,27 @@ For animations, checkout: https://chemlambda.github.io/collection.html
 
 There could also be more possible works from the conference where McCullough presented his work and met Pitts.
 
+** Partial sampling of Rosen’s work:
+
+*** [[https://link.springer.com/chapter/10.1007/978-94-009-2975-3_35][Pattern Generation in Cellular Spaces]]
+*** [[https://link.springer.com/chapter/10.1007/978-1-4684-4640-1_31][Relational Biology and the Origin of Life]]
+*** [[https://link.springer.com/article/10.1007/BF02459437][On a unified approach to pattern generation]]
+*** [[https://link.springer.com/chapter/10.1007/978-94-010-1239-3_9][Complexity and System Description]]
+*** [[https://link.springer.com/article/10.1007/BF02459555][The Chief Abstractions of Biology]]
+*** [[https://link.springer.com/chapter/10.1007/978-1-4899-6419-9_8][Input-Output Systems]]
+*** [[https://link.springer.com/article/10.1007/BF02477959][The derivation of D’Arcy Thompson’s theory of transformations from the theory of optimal design]]
+*** [[https://link.springer.com/article/10.1007/BF02477897][A logical paradox implicit in the notion of a self-reproducing automaton]]
+*** [[https://link.springer.com/article/10.1007/BF02478302][A relational theory of biology]]
+*** [[The representation of biological systems from the standpoint of the theory of categories][https://link.springer.com/article/10.1007/BF02477890]]
+
 - Ilya Pregorine’s Work
 
 - Gregory Chaitin’s work
 
 - Stochastic CFG for RNA
+
+- Frank-Zuse thesis
+Think I need to mention the work of Frank-Zuse thesis along with Ulam-Neumann model.
 
 - Knot Theory for Protein Molecules
 

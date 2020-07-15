@@ -150,8 +150,8 @@ There could also be more possible works from the conference where McCullough pre
 
 - Stochastic CFG for RNA
 
-- Frank-Zuse thesis
-Think I need to mention the work of Frank-Zuse thesis along with Ulam-Neumann model.
+- Zuse-Fredkin thesis / [[https://en.wikipedia.org/wiki/Digital_philosophy][Digital Philosophy]]
+Think I need to mention the work of Zuse-Fredkin thesis along with Ulam-Neumann model.
 
 - Knot Theory for Protein Molecules
 

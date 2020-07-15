@@ -125,7 +125,7 @@ For animations, checkout: https://chemlambda.github.io/collection.html
 
 There could also be more possible works from the conference where McCullough presented his work and met Pitts.
 
-** Rashevsky’s work
+** Sampling of Rashevsky’s work
 
 *** [[https://link.springer.com/article/10.1007%2FBF02476737][On relation between sets — 1961]]
 *** [[https://link.springer.com/article/10.1007%2FBF02476851][The representation of organisms in terms of predicates — 1965]]
@@ -136,9 +136,7 @@ There could also be more possible works from the conference where McCullough pre
 *** [[https://link.springer.com/article/10.1007/BF02477842][The Geometrization of Biology]]
 *** [[https://link.springer.com/article/10.1007%2FBF02478215][Outline of a unified approach to physics, biology and sociology]]
 
-- Needs to include his work on organismic sets
-
-** Partial sampling of Rosen’s work:
+** Sampling of Rosen’s work:
 
 *** [[https://link.springer.com/chapter/10.1007/978-94-009-2975-3_35][Pattern Generation in Cellular Spaces]]
 *** [[https://link.springer.com/chapter/10.1007/978-1-4684-4640-1_31][Relational Biology and the Origin of Life]]

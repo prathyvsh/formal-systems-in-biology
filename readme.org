@@ -127,6 +127,7 @@ There could also be more possible works from the conference where McCullough pre
 
 ** Sampling of Rashevsky’s work
 
+*** [[https://link.springer.com/article/10.1007%2FBF02484495][Topology and life: In search of general mathematical principles in biology and sociology]]
 *** [[https://link.springer.com/article/10.1007%2FBF02476737][On relation between sets — 1961]]
 *** [[https://link.springer.com/article/10.1007%2FBF02476851][The representation of organisms in terms of predicates — 1965]]
 *** [[https://link.springer.com/article/10.1007%2FBF02476395][On relations between sets: II - 1966]]

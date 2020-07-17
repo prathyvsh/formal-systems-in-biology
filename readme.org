@@ -117,6 +117,9 @@ For animations, checkout: https://chemlambda.github.io/collection.html
 
 ** [[https://link.springer.com/book/10.1007/11885191][Computational Methods in Systems Biology (2006)]]
 
+** [[https://arxiv.org/abs/1112.1440][Complex Systems: A Survey]]
+A really good survey of books in complexity science here.
+
 * Further Research
 
 - Rashevsky and Rosen

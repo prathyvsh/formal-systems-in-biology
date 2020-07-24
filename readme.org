@@ -170,6 +170,10 @@ Think I need to mention the work of Zuse-Fredkin thesis along with Ulam-Neumann 
 
 - [[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004591][Computational Modeling, Formal Analysis, and Tools for Systems Biology: Survey]]
 
+** Talks
+
+*** [[https://www.hkw.de/en/app/mediathek/video/69773][Giuseppe Longo: Alphabets, Axioms, DNA: On Human Knowledge and the Myth of Alphanumeric Coding]]
+
 ** Prior Art
 
 *** [[https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal][Ramón y Cajal]]

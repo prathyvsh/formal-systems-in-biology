@@ -68,6 +68,8 @@ Reaction-Diffusion Systems
 
 For animations, checkout: https://chemlambda.github.io/collection.html
 
+[[https://mbuliga.github.io/quinegraphs/history-of-chemlambda.html][History of the project]]
+
 ** Jeffrey Ventrella
 
 *** [[http://ventrella.com/Clusters/][Clusters]]

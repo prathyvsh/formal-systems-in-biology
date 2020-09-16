@@ -61,6 +61,11 @@ An interactive demo of their model is available here: https://justinmeiners.gith
 [[./img/reaction-diffusion.png]]
 Reaction-Diffusion Systems
 
+** Louis Kauffman
+
+[[./img/kauffman-magarshak.png]]
+*** [[http://homepages.math.uic.edu/~kauffman/KauffProteins.pdf][Vassiliev Knot Invariants and the Structure of RNA folding]]
+
 ** Marius Buliga
 
 *** [[https://chemlambda.github.io/index.html][Chemlambda]]

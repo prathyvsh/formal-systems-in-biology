@@ -3,7 +3,7 @@
 A collection of resources that apply formal systems to model biological processes.
 Some easily accessible books to understand the general approaches in this field are also included.
 
-** McCullough-Pitts Work
+** McCulloch-Pitts Work
 
 *** [[https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf][A Logical Calculus of the Ideas Immanent in Nervous Activity (1943)]]
 [[./img/mccullough-pitts.png]]
@@ -11,6 +11,10 @@ Some easily accessible books to understand the general approaches in this field 
 McCullouch and Pitts study of neurons in biology birthed the pivotal paper that kickstarted A.I., [[https://www.rand.org/content/dam/rand/pubs/research_memoranda/2008/RM704.pdf][regular languages]], and digital computers. It was the only paper included in [[http://abelgo.cn/cs101/papers/Neumann.pdf][the EDVAC report]] by John Von Neumann.
 
 An interactive demo of their model is available here: https://justinmeiners.github.io/neural-nets-sim/
+
+** Arthur Iberall / Warren McCulloch
+
+*** [[https://core.ac.uk/download/pdf/85247309.pdf][Behavioural Model of Man - His Chains Revealed]]
 
 ** Stanisław Ulam and Jon Von Neumann
 
@@ -75,6 +79,14 @@ For animations, checkout: https://chemlambda.github.io/collection.html
 
 [[https://mbuliga.github.io/quinegraphs/history-of-chemlambda.html][History of the project]]
 
+** Stefano Maestri and Emaneula Merelli
+*** [[https://www.nature.com/articles/s41598-018-36965-1][Process calculi may reveal the equivalence lying at the heart of RNA and proteins]]
+**** Correction to the article: https://www.nature.com/articles/s41598-019-51082-3
+
+** Artem Kaznatcheev
+*** [[https://www.genetics.org/content/genetics/212/1/245.full.pdf][Computational Complexity as an Ultimate Constraint on Evolution]]
+**** Tweet thread on it here: https://twitter.com/kaznatcheev/status/1102973539634892800
+
 ** Jeffrey Ventrella
 
 *** [[http://ventrella.com/Clusters/][Clusters]]
@@ -100,7 +112,6 @@ For animations, checkout: https://chemlambda.github.io/collection.html
 [[./img/crab-and-gate.png]]
 
 * Resources to understand the field
-
 
 ** [[https://amzn.to/2UrKeRv][Neurocomics]] (Beginner)
 [[./img/neurocomics.jpg]]
@@ -176,6 +187,11 @@ Think I need to mention the work of Zuse-Fredkin thesis along with Ulam-Neumann 
 - [[https://www.sciencedirect.com/science/article/pii/B9780128140666000064][Molecular Networks and Monomial Ideals]]
 
 - [[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004591][Computational Modeling, Formal Analysis, and Tools for Systems Biology: Survey]]
+
+** Tools
+
+*** [[https://github.com/GollyGang/ready][Ready]]
+Ready is a program for exploring continuous and discrete cellular automata, including reaction-diffusion systems, on grids and arbitrary meshes.
 
 ** Blogs
 

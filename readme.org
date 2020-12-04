@@ -65,6 +65,10 @@ An interactive demo of their model is available here: https://justinmeiners.gith
 [[./img/reaction-diffusion.png]]
 Reaction-Diffusion Systems
 
+** Joseph Henry Woodgers
+
+*** [[https://www.amazon.com/axiomatic-method-biology-Joseph-Woodger/dp/B00085P2C8][The Axiomatic Method in Biology (1937)]]
+
 ** Louis Kauffman
 
 [[./img/kauffman-magarshak.png]]
@@ -195,7 +199,11 @@ Ready is a program for exploring continuous and discrete cellular automata, incl
 
 ** Blogs
 
-*** [[http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/]][(A Bit of) Biological Neural Networks (2018)]]
+*** [[https://jsomers.net/i-should-have-loved-biology/][I should have loved biology]]
+
+A beautiful piece of writing from James Somers on the rich tapestry of the field of biology and what user interface design might have to offer the field.
+
+*** [[http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/][(A Bit of) Biological Neural Networks (2018)]]
 A really nice series of articles on the biological aspects of neural networks by Jack Terwilliger
 
 ** Talks

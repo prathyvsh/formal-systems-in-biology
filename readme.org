@@ -192,6 +192,10 @@ Think I need to mention the work of Zuse-Fredkin thesis along with Ulam-Neumann 
 
 - [[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004591][Computational Modeling, Formal Analysis, and Tools for Systems Biology: Survey]]
 
+- Luca Cardelli
+- [[https://dx.doi.org/10.1186/1752-0509-8-84][Morphism of reaction networks that couple structure to function]]
+
+
 ** Tools
 
 *** [[https://github.com/GollyGang/ready][Ready]]
